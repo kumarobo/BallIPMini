@@ -12,9 +12,9 @@
         <itemPath>src/system.h</itemPath>
         <itemPath>src/system_config.h</itemPath>
         <itemPath>src/usb_config.h</itemPath>
-        <itemPath>../BRC_functest.X/src/app_host_hid_joypad.h</itemPath>
         <itemPath>src/MPU6050.h</itemPath>
         <itemPath>src/FutabaServo.h</itemPath>
+        <itemPath>src/app_host_hid_joypad.h</itemPath>
       </logicalFolder>
       <logicalFolder name="f1" displayName="USB" projectFiles="true">
         <itemPath>usbframework/usb.h</itemPath>
